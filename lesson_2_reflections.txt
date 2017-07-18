@@ -1,0 +1,9 @@
+Q)What happens when you initialize a repository? Why do you need to do it?
+R)Viene creata una cartella nascosta .git necessaria per contenente tutte le
+configurazioni e per tener traccia delle diverse versioni
+
+Q)How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+R)All'interno della staging area si tiene traccia dei file che si vogliono
+aggiungere all'interno del prossimo commit. Permette di separare i commit al
+valore logico delle operazioni svolte
